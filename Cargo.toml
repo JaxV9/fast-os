@@ -2,7 +2,7 @@
 name = "fast-os"
 version = "0.1.0"
 edition = "2024"
-
+authors = ["LAYAN Jason - layanj.pro@gmail.com"]
 [profile.dev]
 panic = "abort"
 
